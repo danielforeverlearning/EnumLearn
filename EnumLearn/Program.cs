@@ -23,6 +23,8 @@ namespace EnumLearn
             END = 10
         };
 
+
+
         static void Main(string[] args)
         {
             

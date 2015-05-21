@@ -1,0 +1,6 @@
+C:\Users\mlee\Documents\Visual Studio 2013\Projects\EnumLearn\EnumLearn\bin\Debug\EnumLearn.exe.config
+C:\Users\mlee\Documents\Visual Studio 2013\Projects\EnumLearn\EnumLearn\bin\Debug\EnumLearn.exe
+C:\Users\mlee\Documents\Visual Studio 2013\Projects\EnumLearn\EnumLearn\bin\Debug\EnumLearn.pdb
+C:\Users\mlee\Documents\Visual Studio 2013\Projects\EnumLearn\EnumLearn\obj\Debug\EnumLearn.csprojResolveAssemblyReference.cache
+C:\Users\mlee\Documents\Visual Studio 2013\Projects\EnumLearn\EnumLearn\obj\Debug\EnumLearn.exe
+C:\Users\mlee\Documents\Visual Studio 2013\Projects\EnumLearn\EnumLearn\obj\Debug\EnumLearn.pdb
